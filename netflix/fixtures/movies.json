@@ -1,0 +1,262 @@
+[
+  {
+    "model": "netflix.movie",
+    "pk": 1,
+    "fields": {
+      "title": "Epic Journey",
+      "slug": "epic-journey",
+      "description": "A gripping tale about a hero who must save the world.",
+      "release_date": "2018-05-12",
+      "image": "https://dummyimage.com/300x450/456/fff&text=Epic+Journey",
+      "duration": 127,
+      "genre": "Action"
+    }
+  },
+  {
+    "model": "netflix.movie",
+    "pk": 2,
+    "fields": {
+      "title": "Secret Battle 2",
+      "slug": "secret-battle-2",
+      "description": "A chilling story about a group of friends who must find the truth.",
+      "release_date": "2020-11-03",
+      "image": "https://dummyimage.com/300x450/789/fff&text=Secret+Battle+2",
+      "duration": 118,
+      "genre": "Thriller"
+    }
+  },
+  {
+    "model": "netflix.movie",
+    "pk": 3,
+    "fields": {
+      "title": "Mysterious Love",
+      "slug": "mysterious-love",
+      "description": "A hilarious journey about an unlikely duo who must overcome their fears.",
+      "release_date": "2015-08-22",
+      "image": "https://dummyimage.com/300x450/123/fff&text=Mysterious+Love",
+      "duration": 95,
+      "genre": "Comedy"
+    }
+  },
+  {
+    "model": "netflix.movie",
+    "pk": 4,
+    "fields": {
+      "title": "Final Hour",
+      "slug": "final-hour",
+      "description": "A heartwarming adventure about a mysterious stranger who must discover love.",
+      "release_date": "2021-02-14",
+      "image": "https://dummyimage.com/300x450/345/fff&text=Final+Hour",
+      "duration": 142,
+      "genre": "Romance"
+    }
+  },
+  {
+    "model": "netflix.movie",
+    "pk": 5,
+    "fields": {
+      "title": "Dark Promise",
+      "slug": "dark-promise",
+      "description": "A gripping tale about a hero who must save the world.",
+      "release_date": "2019-07-30",
+      "image": "https://dummyimage.com/300x450/678/fff&text=Dark+Promise",
+      "duration": 131,
+      "genre": "Sci-Fi"
+    }
+  },
+  {
+    "model": "netflix.movie",
+    "pk": 6,
+    "fields": {
+      "title": "Lost Moment",
+      "slug": "lost-moment",
+      "description": "A heartwarming story about a group of friends who must overcome their fears.",
+      "release_date": "2017-04-18",
+      "image": "https://dummyimage.com/300x450/901/fff&text=Lost+Moment",
+      "duration": 112,
+      "genre": "Drama"
+    }
+  },
+  {
+    "model": "netflix.movie",
+    "pk": 7,
+    "fields": {
+      "title": "Silent Dream",
+      "slug": "silent-dream",
+      "description": "A chilling adventure about an unlikely duo who must discover love.",
+      "release_date": "2016-09-05",
+      "image": "https://dummyimage.com/300x450/234/fff&text=Silent+Dream",
+      "duration": 105,
+      "genre": "Horror"
+    }
+  },
+  {
+    "model": "netflix.movie",
+    "pk": 8,
+    "fields": {
+      "title": "First Night",
+      "slug": "first-night",
+      "description": "A hilarious tale about a mysterious stranger who must find the truth.",
+      "release_date": "2020-12-25",
+      "image": "https://dummyimage.com/300x450/567/fff&text=First+Night",
+      "duration": 98,
+      "genre": "Comedy"
+    }
+  },
+  {
+    "model": "netflix.movie",
+    "pk": 9,
+    "fields": {
+      "title": "Forgotten Day",
+      "slug": "forgotten-day",
+      "description": "A gripping journey about a hero who must save the world.",
+      "release_date": "2018-03-08",
+      "image": "https://dummyimage.com/300x450/890/fff&text=Forgotten+Day",
+      "duration": 134,
+      "genre": "Action"
+    }
+  },
+  {
+    "model": "netflix.movie",
+    "pk": 10,
+    "fields": {
+      "title": "Last Secret",
+      "slug": "last-secret",
+      "description": "A heartwarming story about a group of friends who must discover love.",
+      "release_date": "2019-10-31",
+      "image": "https://dummyimage.com/300x450/123/fff&text=Last+Secret",
+      "duration": 121,
+      "genre": "Romance"
+    }
+  },
+  {
+    "model": "netflix.movie",
+    "pk": 11,
+    "fields": {
+      "title": "Mysterious Battle",
+      "slug": "mysterious-battle",
+      "description": "A chilling tale about an unlikely duo who must find the truth.",
+      "release_date": "2017-06-15",
+      "image": "https://dummyimage.com/300x450/456/fff&text=Mysterious+Battle",
+      "duration": 115,
+      "genre": "Thriller"
+    }
+  },
+  {
+    "model": "netflix.movie",
+    "pk": 12,
+    "fields": {
+      "title": "Epic Love 2",
+      "slug": "epic-love-2",
+      "description": "A hilarious adventure about a mysterious stranger who must overcome their fears.",
+      "release_date": "2021-01-22",
+      "image": "https://dummyimage.com/300x450/789/fff&text=Epic+Love+2",
+      "duration": 107,
+      "genre": "Comedy"
+    }
+  },
+  {
+    "model": "netflix.movie",
+    "pk": 13,
+    "fields": {
+      "title": "Dark Journey",
+      "slug": "dark-journey",
+      "description": "A gripping story about a hero who must save the world.",
+      "release_date": "2016-11-11",
+      "image": "https://dummyimage.com/300x450/012/fff&text=Dark+Journey",
+      "duration": 128,
+      "genre": "Action"
+    }
+  },
+  {
+    "model": "netflix.movie",
+    "pk": 14,
+    "fields": {
+      "title": "Secret Hour",
+      "slug": "secret-hour",
+      "description": "A heartwarming journey about a group of friends who must discover love.",
+      "release_date": "2020-07-04",
+      "image": "https://dummyimage.com/300x450/345/fff&text=Secret+Hour",
+      "duration": 119,
+      "genre": "Romance"
+    }
+  },
+  {
+    "model": "netflix.movie",
+    "pk": 15,
+    "fields": {
+      "title": "Final Promise",
+      "slug": "final-promise",
+      "description": "A chilling adventure about an unlikely duo who must find the truth.",
+      "release_date": "2018-09-19",
+      "image": "https://dummyimage.com/300x450/678/fff&text=Final+Promise",
+      "duration": 132,
+      "genre": "Thriller"
+    }
+  },
+  {
+    "model": "netflix.movie",
+    "pk": 16,
+    "fields": {
+      "title": "Lost Night",
+      "slug": "lost-night",
+      "description": "A hilarious tale about a mysterious stranger who must overcome their fears.",
+      "release_date": "2019-04-27",
+      "image": "https://dummyimage.com/300x450/901/fff&text=Lost+Night",
+      "duration": 96,
+      "genre": "Comedy"
+    }
+  },
+  {
+    "model": "netflix.movie",
+    "pk": 17,
+    "fields": {
+      "title": "Silent Day",
+      "slug": "silent-day",
+      "description": "A gripping story about a hero who must save the world.",
+      "release_date": "2017-12-08",
+      "image": "https://dummyimage.com/300x450/234/fff&text=Silent+Day",
+      "duration": 141,
+      "genre": "Action"
+    }
+  },
+  {
+    "model": "netflix.movie",
+    "pk": 18,
+    "fields": {
+      "title": "First Moment",
+      "slug": "first-moment",
+      "description": "A heartwarming journey about a group of friends who must discover love.",
+      "release_date": "2020-03-21",
+      "image": "https://dummyimage.com/300x450/567/fff&text=First+Moment",
+      "duration": 124,
+      "genre": "Romance"
+    }
+  },
+  {
+    "model": "netflix.movie",
+    "pk": 19,
+    "fields": {
+      "title": "Forgotten Dream",
+      "slug": "forgotten-dream",
+      "description": "A chilling adventure about an unlikely duo who must find the truth.",
+      "release_date": "2018-08-14",
+      "image": "https://dummyimage.com/300x450/890/fff&text=Forgotten+Dream",
+      "duration": 113,
+      "genre": "Thriller"
+    }
+  },
+  {
+    "model": "netflix.movie",
+    "pk": 20,
+    "fields": {
+      "title": "Last Battle",
+      "slug": "last-battle",
+      "description": "A hilarious tale about a mysterious stranger who must overcome their fears.",
+      "release_date": "2019-05-30",
+      "image": "https://dummyimage.com/300x450/123/fff&text=Last+Battle",
+      "duration": 99,
+      "genre": "Comedy"
+    }
+  }
+]
