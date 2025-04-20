@@ -18,3 +18,10 @@ class GetMovie(APIView):
             movie = Movie.objects.get(slug=slug)
             serializer = MovieSerializer(movie)
             return Response(serializer.data , status=200)
+    
+class HotMovies(APIView):
+     def get(self, request):
+          movies = Movie.objects.all().order_by('-views')[:5]
+          serializer = MovieSerializer(movies, many=True)
+          return Response(serializer.data , status=200)
+     

@@ -22,6 +22,8 @@ class Movie(models.Model):
     image = models.URLField()
     duration = models.PositiveIntegerField(help_text="Duration in minutes")
     genre = models.CharField(max_length=20, choices=GENRE_CHOICES)
-    
+    views = models.IntegerField(default=0)
+    rating = models.FloatField(default=0.0)
+                
     def __str__(self):
         return self.title

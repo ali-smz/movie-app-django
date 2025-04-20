@@ -9,7 +9,9 @@
       "release_date": "2018-05-12",
       "image": "https://dummyimage.com/300x450/456/fff&text=Epic+Journey",
       "duration": 127,
-      "genre": "Action"
+      "genre": "Action",
+      "views": 1245678,
+      "rating": 8.7
     }
   },
   {
@@ -22,7 +24,9 @@
       "release_date": "2020-11-03",
       "image": "https://dummyimage.com/300x450/789/fff&text=Secret+Battle+2",
       "duration": 118,
-      "genre": "Thriller"
+      "genre": "Thriller",
+      "views": 876543,
+      "rating": 7.9
     }
   },
   {
@@ -35,7 +39,9 @@
       "release_date": "2015-08-22",
       "image": "https://dummyimage.com/300x450/123/fff&text=Mysterious+Love",
       "duration": 95,
-      "genre": "Comedy"
+      "genre": "Comedy",
+      "views": 3456789,
+      "rating": 6.5
     }
   },
   {
@@ -48,7 +54,9 @@
       "release_date": "2021-02-14",
       "image": "https://dummyimage.com/300x450/345/fff&text=Final+Hour",
       "duration": 142,
-      "genre": "Romance"
+      "genre": "Romance",
+      "views": 987654,
+      "rating": 9.2
     }
   },
   {
@@ -61,7 +69,9 @@
       "release_date": "2019-07-30",
       "image": "https://dummyimage.com/300x450/678/fff&text=Dark+Promise",
       "duration": 131,
-      "genre": "Sci-Fi"
+      "genre": "Sci-Fi",
+      "views": 567890,
+      "rating": 8.1
     }
   },
   {
@@ -74,7 +84,9 @@
       "release_date": "2017-04-18",
       "image": "https://dummyimage.com/300x450/901/fff&text=Lost+Moment",
       "duration": 112,
-      "genre": "Drama"
+      "genre": "Drama",
+      "views": 2345678,
+      "rating": 7.4
     }
   },
   {
@@ -87,7 +99,9 @@
       "release_date": "2016-09-05",
       "image": "https://dummyimage.com/300x450/234/fff&text=Silent+Dream",
       "duration": 105,
-      "genre": "Horror"
+      "genre": "Horror",
+      "views": 765432,
+      "rating": 6.8
     }
   },
   {
@@ -100,7 +114,9 @@
       "release_date": "2020-12-25",
       "image": "https://dummyimage.com/300x450/567/fff&text=First+Night",
       "duration": 98,
-      "genre": "Comedy"
+      "genre": "Comedy",
+      "views": 4321098,
+      "rating": 7.0
     }
   },
   {
@@ -113,7 +129,9 @@
       "release_date": "2018-03-08",
       "image": "https://dummyimage.com/300x450/890/fff&text=Forgotten+Day",
       "duration": 134,
-      "genre": "Action"
+      "genre": "Action",
+      "views": 3210987,
+      "rating": 8.3
     }
   },
   {
@@ -126,7 +144,9 @@
       "release_date": "2019-10-31",
       "image": "https://dummyimage.com/300x450/123/fff&text=Last+Secret",
       "duration": 121,
-      "genre": "Romance"
+      "genre": "Romance",
+      "views": 1098765,
+      "rating": 9.0
     }
   },
   {
@@ -139,7 +159,9 @@
       "release_date": "2017-06-15",
       "image": "https://dummyimage.com/300x450/456/fff&text=Mysterious+Battle",
       "duration": 115,
-      "genre": "Thriller"
+      "genre": "Thriller",
+      "views": 654321,
+      "rating": 7.6
     }
   },
   {
@@ -152,7 +174,9 @@
       "release_date": "2021-01-22",
       "image": "https://dummyimage.com/300x450/789/fff&text=Epic+Love+2",
       "duration": 107,
-      "genre": "Comedy"
+      "genre": "Comedy",
+      "views": 2109876,
+      "rating": 6.9
     }
   },
   {
@@ -165,7 +189,9 @@
       "release_date": "2016-11-11",
       "image": "https://dummyimage.com/300x450/012/fff&text=Dark+Journey",
       "duration": 128,
-      "genre": "Action"
+      "genre": "Action",
+      "views": 5432109,
+      "rating": 8.5
     }
   },
   {
@@ -178,7 +204,9 @@
       "release_date": "2020-07-04",
       "image": "https://dummyimage.com/300x450/345/fff&text=Secret+Hour",
       "duration": 119,
-      "genre": "Romance"
+      "genre": "Romance",
+      "views": 8765432,
+      "rating": 9.1
     }
   },
   {
@@ -191,7 +219,9 @@
       "release_date": "2018-09-19",
       "image": "https://dummyimage.com/300x450/678/fff&text=Final+Promise",
       "duration": 132,
-      "genre": "Thriller"
+      "genre": "Thriller",
+      "views": 7654321,
+      "rating": 7.8
     }
   },
   {
@@ -204,7 +234,9 @@
       "release_date": "2019-04-27",
       "image": "https://dummyimage.com/300x450/901/fff&text=Lost+Night",
       "duration": 96,
-      "genre": "Comedy"
+      "genre": "Comedy",
+      "views": 4321567,
+      "rating": 6.7
     }
   },
   {
@@ -217,7 +249,9 @@
       "release_date": "2017-12-08",
       "image": "https://dummyimage.com/300x450/234/fff&text=Silent+Day",
       "duration": 141,
-      "genre": "Action"
+      "genre": "Action",
+      "views": 3215678,
+      "rating": 8.4
     }
   },
   {
@@ -230,7 +264,9 @@
       "release_date": "2020-03-21",
       "image": "https://dummyimage.com/300x450/567/fff&text=First+Moment",
       "duration": 124,
-      "genre": "Romance"
+      "genre": "Romance",
+      "views": 9876543,
+      "rating": 9.3
     }
   },
   {
@@ -243,7 +279,9 @@
       "release_date": "2018-08-14",
       "image": "https://dummyimage.com/300x450/890/fff&text=Forgotten+Dream",
       "duration": 113,
-      "genre": "Thriller"
+      "genre": "Thriller",
+      "views": 6543210,
+      "rating": 7.5
     }
   },
   {
@@ -256,7 +294,9 @@
       "release_date": "2019-05-30",
       "image": "https://dummyimage.com/300x450/123/fff&text=Last+Battle",
       "duration": 99,
-      "genre": "Comedy"
+      "genre": "Comedy",
+      "views": 5432109,
+      "rating": 6.6
     }
   }
 ]
