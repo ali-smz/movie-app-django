@@ -28,12 +28,16 @@ class Movie(models.Model):
     @property
     def like_count(self):
         return self.likes.count()
+    
+    @property
+    def comment_count(self):
+        return self.comments.count()
                 
     def __str__(self):
         return self.title
     
 
-class Likes(models.Model):
+class Like(models.Model):
     user = models.ForeignKey(settings.AUTH_USER_MODEL , on_delete=models.CASCADE)
     movie = models.ForeignKey('Movie' , on_delete=models.CASCADE , related_name='likes')
     created_at = models.DateTimeField(auto_now_add=True)
@@ -42,4 +46,13 @@ class Likes(models.Model):
     
     def __str__(self):
         return f"{self.user} liked {self.movie}"
+
+class Comment(models.Model):
+    user = models.ForeignKey(settings.AUTH_USER_MODEL , on_delete=models.CASCADE)
+    movie = models.ForeignKey("Movie" , on_delete=models.CASCADE , related_name="comments")
+    body = models.TextField()
+    created_at = models.DateTimeField(auto_now_add=True)
+
+    def __str__(self):
+        return f"{self.user} commented at {self.movie}"
     
